@@ -1,5 +1,5 @@
 # bootstrap_4
-Created with CodeSandbox
+## Content - Images
 
 ![image](https://user-images.githubusercontent.com/37132897/158334848-bc807ac2-9470-4dfc-98c9-101955144a68.png)
 
